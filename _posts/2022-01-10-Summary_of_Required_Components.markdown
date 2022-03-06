@@ -23,14 +23,17 @@ categories: design
 
 ## Bluetooth Device: 
 - Original Selection: 
+![bluetooth-ori.PNG](/assets/images/bluetooth-ori.PNG)
   - (0.9 inch, 23mm) [Link](https://www.adafruit.com/product/2633)
   - Tutorial about How the Original Selection Works with Teensy:
     - [Link](https://www.youtube.com/watch?v=tREQuzZjVvo)
 - [Alternative 1](https://components101.com/wireless/hc-06-bluetooth-module-pinout-datasheet): 
+![bluetooth-A1.PNG](/assets/images/bluetooth-A1.PNG)
   - (16mm, but it is longer, easy to get it work with Teensy) 
   - Purchase Link for Alternative 1:
     - [Link](https://www.amazon.ca/DSD-TECH-Wireless-Bluetooth-Transceiver/dp/B01FCQZ8VW/ref=sr_1_2_sspa?crid=1C07SB70WGVGG&keywords=Bluetooth+Transceiver+Module+HC-06&qid=1642629707&sprefix=bluetooth+transceiver+module+hc-06%2Caps%2C47&sr=8-2-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyNjlGWkpNTU9KOEtaJmVuY3J5cHRlZElkPUEwNTM2ODE3MTRHUERSTkFJMkRNJmVuY3J5cHRlZEFkSWQ9QTA3NzY1NjYzVlBLWFNXRDVHVEtFJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==)
 - [Alternative 2](https://www.techdesign.com/market/reyax/categories/bluetooth/bluetooth-modules?search=RYB080I&targetid=kwd-1110925765636&keyword=ryb080i&matchtype=p&device=c&creative=500850269512&product_id=&adposition=&placement=&target=&campaignid=10552609144&adgroupid=118956344107&utm_source=googlecpc&gclid=Cj0KCQiAip-PBhDVARIsAPP2xc1DReWozrfVYH91IyogoSK_k3kqwjPFD_rAJemO8mXcv26wyVRDV0MaAtnAEALw_wcB): 
+![bluetooth-A2.PNG](/assets/images/bluetooth-A2.PNG)
   - Purchase Link for Alternative 1:
     - [Link](https://www.amazon.com/REYAX-RYB080I_lite-Bluetooth-Module-CC2640R2F/dp/B07NB7FK6M)
   - Smaller in size with the breakout board it is only(16mm * 19mm) Need to wait for some time (Jan 28)
