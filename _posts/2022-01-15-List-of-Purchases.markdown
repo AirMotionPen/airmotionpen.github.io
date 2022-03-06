@@ -10,7 +10,7 @@ categories: design
 - bluetooth module [link](https://www.amazon.ca/DSD-TECH-Wireless-Bluetooth-Transceiver/dp/B01FCQZ8VW/ref=sr_1_2_sspa?crid=1C07SB70WGVGG&keywords=Bluetooth+Transceiver+Module+HC-06&qid=1642629707&sprefix=bluetooth+transceiver+module+hc-06%2Caps%2C47&sr=8-2-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyNjlGWkpNTU9KOEtaJmVuY3J5cHRlZElkPUEwNTM2ODE3MTRHUERSTkFJMkRNJmVuY3J5cHRlZEFkSWQ9QTA3NzY1NjYzVlBLWFNXRDVHVEtFJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==)
 - rechargeable battery (Kaitlyn)
   <br> If we’re including both the usb and external battery options then we should probably follow this option 3 recommended from this link. These diodes are only needed if we want to power the board with both methods, though it is still recommended to add one diode between the battery and teensy to protect it from accidental reverse polarity connections. Not doing this can result in accidental reverse polarities and draining the battery when the USB power is available. <br>
-
+![2022-01-15.PNG](/assets/images/2022-01-15.PNG)
   <br> Teensy 3.0+ uses a similar ARM configuration so we can follow the similar steps of the 4.0 board for 4.1. More details can be found on this [forum](https://forum.pjrc.com/threads/66954-supply-battery-teensy-4-0-how-do-it)  <br>
   <br> Some key points to note about the battery configuration that we need:
   - The voltage does not go above 5.5V and the teensy will start browning out and shutting down below a battery voltage of 3.6V
