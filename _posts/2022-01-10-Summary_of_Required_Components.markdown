@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Summary of Required Components"
-date:   2022-01-12 22:52:00 -0500
+date:   2022-01-10 22:00:00 -0500
 categories: design
 ---
 
@@ -18,8 +18,8 @@ categories: design
 - Tutorial:
   - [Link](https://www.youtube.com/watch?v=_LuvkEGFas8)
 - Purchase:
-  (pressure sensitive resistors,20g-2kg)
-  [Link](https://www.amazon.ca/Pressure-Precise-Force-Sensitive-Resistor-Resistance-Type/dp/B07T1CHY58/ref=sr_1_1_sspa?crid=1GY7I9DOL8HGV&keywords=pressure+sensitive+resistor&qid=1642647199&sprefix=pressure+sensitive+resistor%2Caps%2C78&sr=8-1-spons&psc=1&smid=A2KRDQ1AI5Y5G6&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFZR05OWkNNRTE2UzEmZW5jcnlwdGVkSWQ9QTA0NzQxNDIzUjYwVEdIWDdDOTZUJmVuY3J5cHRlZEFkSWQ9QTA0NjkwNTQ4TUxMSEcxQVhGV0gmd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl)
+  <br>(pressure sensitive resistors,20g-2kg)
+  - [Link](https://www.amazon.ca/Pressure-Precise-Force-Sensitive-Resistor-Resistance-Type/dp/B07T1CHY58/ref=sr_1_1_sspa?crid=1GY7I9DOL8HGV&keywords=pressure+sensitive+resistor&qid=1642647199&sprefix=pressure+sensitive+resistor%2Caps%2C78&sr=8-1-spons&psc=1&smid=A2KRDQ1AI5Y5G6&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFZR05OWkNNRTE2UzEmZW5jcnlwdGVkSWQ9QTA0NzQxNDIzUjYwVEdIWDdDOTZUJmVuY3J5cHRlZEFkSWQ9QTA0NjkwNTQ4TUxMSEcxQVhGV0gmd2lkZ2V0TmFtZT1zcF9hdGYmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl)
 
 
 
