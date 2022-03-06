@@ -13,16 +13,16 @@ We chose the battery with a capacity of 1400mAh
 The Teensy 4.1 Development Board as our controller consumes approximately 100mA current and has a nominally 5V "Vin" pin that is limited to the range 3.6V to 5.5V. 
 Since we are going to connect all the other components to the teensy board, we need to make sure that the total current draw does not exceed the 100mA limit and enough voltage will be supplied to all the components by the controller board. The total current draw of the system is summaries in the table below
 
-| Tables        | Are           | Cool  |
+| Component name        | Are           | Cool  |
 | ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
+| Current and voltage Consumption
+MPU Sensor for Pen-Tip Localization:
+MPU-6500        | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
 | zebra stripes | are neat      |    $1 |
 
-Component name
-Current and voltage Consumption
-MPU Sensor for Pen-Tip Localization:
-MPU-6500
+
+
 https://www.amazon.ca/gp/product/B07P5YZ7ZD/ref=ppx_yo_dt_b_asin_title_o05_s00?ie=UTF8&psc=1
 
 
