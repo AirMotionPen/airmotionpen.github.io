@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Design Poster"
+date:   2022-02-01 10:00:00 -0500
+categories: design
+---
+
 # Design Poster
 1. The overall area or background of the problem.
 
