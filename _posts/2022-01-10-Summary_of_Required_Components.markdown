@@ -28,7 +28,7 @@ categories: design
   - Tutorial about How the Original Selection Works with Teensy:
     - [Link](https://www.youtube.com/watch?v=tREQuzZjVvo)
 - [Alternative 1](https://components101.com/wireless/hc-06-bluetooth-module-pinout-datasheet): 
-![bluetooth-A1.PNG](/assets/images/bluetooth-A1.PNG)
+<br> ![bluetooth-A1.PNG](/assets/images/bluetooth-A1.PNG)
   - (16mm, but it is longer, easy to get it work with Teensy) 
   - Purchase Link for Alternative 1:
     - [Link](https://www.amazon.ca/DSD-TECH-Wireless-Bluetooth-Transceiver/dp/B01FCQZ8VW/ref=sr_1_2_sspa?crid=1C07SB70WGVGG&keywords=Bluetooth+Transceiver+Module+HC-06&qid=1642629707&sprefix=bluetooth+transceiver+module+hc-06%2Caps%2C47&sr=8-2-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyNjlGWkpNTU9KOEtaJmVuY3J5cHRlZElkPUEwNTM2ODE3MTRHUERSTkFJMkRNJmVuY3J5cHRlZEFkSWQ9QTA3NzY1NjYzVlBLWFNXRDVHVEtFJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==)
@@ -40,7 +40,7 @@ categories: design
   - Tutorials:
     - [Link1](https://www.youtube.com/watch?v=phH3JVayyV8)
     - [Link2](https://www.youtube.com/watch?v=RB2bxE_QTVY)
-    - 
+    
 ## Action item:
 - search for how the external battery can supply power to the Teensy board 4.1, voltage requirement: (Kaitlyn, Simon)
 - search for how wireless charging module can charge the external battery
