@@ -15,7 +15,7 @@ Since we are going to connect all the other components to the teensy board, we n
 
 | Component name                           | Current and voltage Consumption| Cool  |
 | -------------                            |:-------------:| -----:|
-| MPU Sensor for Pen-Tip Localization: \n MPU-6500 [Link](https://www.amazon.ca/gp/product/B07P5YZ7ZD/ref=ppx_yo_dt_b_asin_title_o05_s00?ie=UTF8&psc=1)| right-aligned | $1600 |
+| MPU Sensor for Pen-Tip Localization: <br> MPU-6500 <br> [Link](https://www.amazon.ca/gp/product/B07P5YZ7ZD/ref=ppx_yo_dt_b_asin_title_o05_s00?ie=UTF8&psc=1)| right-aligned | $1600 |
 | -------------                            |:-------------:| -----:|
 | col 2 is                                 | centered      |   $12 |
 | zebra stripes                            | are neat      |    $1 |
