@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Mechanical Design Roadmap"
-date:   2022-01 - 2022-03
+date:   2022-01-01
 categories: mechanical
 ---
 
