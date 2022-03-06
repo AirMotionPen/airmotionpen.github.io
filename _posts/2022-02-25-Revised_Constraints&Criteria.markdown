@@ -12,9 +12,9 @@ categories: design
 | The device must be compatible with multiple platforms. |
 | Users must be able to hold the device in one hand. |
 | The device must provide all sensor readings of a stylus. |
-| no longer measuring the pressure and inclination |
-| pushing responsibility to the host device |
-| durability issues & sensitivity |
+| No longer measuring the pressure and inclination |
+| Pushing responsibility to the host device |
+| Durability issues & sensitivity |
 | The device battery life should last the duration of a meeting or lecture. |
 | The connection between the device and computer is wireless. |
 | The device application point should not inflict any scratches on a glass or wooden surface. |
